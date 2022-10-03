@@ -1,6 +1,6 @@
-Hi, I’m @faizan542. I am a frontend web developer.
-I am eager to be challenged in order to
-grow and further improve my IT
-skills. My greatest passion is in
-life is using my technical know-how to benefit other people and
-organisations.
+Hi 👋 My name is Muhammad Faizan Mohiuddin
+🔭 I’m currently working on React Js and JavaScript
+🧠 I’m currently learning React Js
+👯 I’m looking to collaborate on Frontend Projects
+⚡ Fun fact: Thirst of learning technnologies
+✉️ You can contact me at faizansilat100@gmail.com
