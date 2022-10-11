@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan542&label=Profile%20views&color=0e75b6&style=flat" alt="faizan542" /> </p>
 
-- 🔭 I’m currently working on **JavaScript and React**
+- 🔭 I’m currently working on **JavaScript and ReactJs**
 
 - 🌱 I’m currently learning **ReactJs**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 💬 Ask me about **React and JavaScript**
+- 💬 Ask me about **ReactJs and JavaScript**
 
 - 📫 How to reach me **faizansilat100@gmail.com**
 
