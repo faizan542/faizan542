@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan Mohiuddin</h1>
 <h3 align="center">A passionate frontend web developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="YOUR_CUSTOM_GIF_URL">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan542&label=Profile%20views&color=0e75b6&style=flat" alt="faizan542" /> </p>
 
