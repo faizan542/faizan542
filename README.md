@@ -28,4 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan542&show_icons=true&locale=en" alt="faizan542" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faizan542&theme=gruvbox-duo)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=faizan542&theme=shades-of-purple" alt="faizan542" /></a>
