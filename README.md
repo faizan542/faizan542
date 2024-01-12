@@ -28,6 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan542&show_icons=true&locale=en" alt="faizan542" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan542&" alt="faizan542" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan542" alt="faizan543" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=faizan542&theme=shades-of-purple" alt="GitHub Streak" /></a>
