@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend web developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan542&label=Profile%20views&color=0e75b6&style=flat" alt="faizan542" /> </p>
+<p align="left"> <img src="https://via.placeholder.com/150" alt="faizan542" /> </p>
 
 - 🔭 I’m currently working on **JavaScript and ReactJs**
 
