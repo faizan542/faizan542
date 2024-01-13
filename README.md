@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan542&show_icons=true&locale=en" alt="faizan542" /></p>
 
-<a style="text-align:center;" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faizan542&theme=javascript-dark&hide_border=true&border_radius=14.6&card_width=500" alt="GitHub Streak" /></a>
+<p style="text-align:center;"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faizan542&theme=javascript-dark&hide_border=true&border_radius=14.6&card_width=500" alt="GitHub Streak" /></a></p>
